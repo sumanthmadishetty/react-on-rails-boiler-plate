@@ -1,0 +1,14 @@
+{
+  "en":
+      {
+        "applicantDetails": "Applicant details",
+        "visaDetails": "Visa Details",
+        "serviceDetails": "Service Details"
+      },
+  "ar": 
+     {
+        "applicantDetails": "Applicant details arabic",
+        "visaDetails": "Visa Details arabic",
+        "serviceDetails": "Service Details arabic"
+     }
+}
